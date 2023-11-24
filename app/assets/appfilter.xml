@@ -2210,6 +2210,7 @@
   <item component="ComponentInfo{com.applications.homecentre/com.landmarkgroup.landmarkshops.module.splash.activity.SplashActivityV2}" drawable="homecentre" name="Homecentre" />
   <item component="ComponentInfo{info.xolf.homeworker/info.xolf.homeworker.MainActivity}" drawable="homeworker" name="Homeworker" />
   <item component="ComponentInfo{com.HoYoverse.hkrpgoversea/com.mihoyo.combosdk.ComboSDKActivity}" drawable="honkai_star_rail" name="Honkai: Star Rail" />
+  <item component="ComponentInfo{com.hihonor.cloudmusic/com.netease.cloudmusic.activity.MainActivity}" drawable="netease_music" name="Honor Music" />
   <item component="ComponentInfo{com.boynergrup.hopi/com.boynergrup.hopi.AliasDefault}" drawable="hopi" name="Hopi" />
   <item component="ComponentInfo{my.com.maxis.hotlink.production/my.com.maxis.hotlink.RevampMainActivity}" drawable="hotlink" name="Hotlink" />
   <item component="ComponentInfo{hotspotshield.android.vpn/com.anchorfree.hotspotshield.ui.HssActivity}" drawable="hotspot_shield" name="Hotspot Shield VPN" />
@@ -2787,6 +2788,7 @@
   <item component="ComponentInfo{wl.smartled/com.easylink.colorful.activity.LaunchActivity}" drawable="lotus_lantern" name="Lotus Lantern" />
   <item component="ComponentInfo{love.lovebox.loveboxapp/love.lovebox.loveboxapp.MainActivity}" drawable="lovebox" name="Lovebox" />
   <item component="ComponentInfo{com.lovense.wear/com.wear.main.FlashActivity}" drawable="lovense_remote" name="Lovense Remote" />
+  <item component="ComponentInfo{org.lsposed.lspatch/org.lsposed.lspatch.ui.activity.MainActivity}" drawable="lsposed" name="Lspatch" />
   <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed" name="LSPosed Manager" />
   <item component="ComponentInfo{com.android.shell/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed" name="LSPosed Manager" />
   <item component="ComponentInfo{com.lucidchart.android.chart/com.lucidchart.android.chart.MainActivity}" drawable="lucidchart" name="Lucidchart" />
@@ -3166,8 +3168,8 @@
   <item component="ComponentInfo{uz.mobiuz.mobiservice/uz.mobiuz.mobiservice.dev.SplashActivity}" drawable="mobiuz" name="Mobiuz" />
   <item component="ComponentInfo{pl.nask.mobywatel/pl.gov.mc.fringers.mobywatel.MainActivity}" drawable="mobywatel" name="mObywatel" />
   <item component="ComponentInfo{com.axiel7.moelist/com.axiel7.moelist.uicompose.MainActivity}" drawable="moelist" name="MoeList" />
-  <item component="ComponentInfo{pl.orange.mojeorange/crc646bf5eb75cfbff4ee.SplashScreen}" drawable="moj_orange" name="Moj Orange" />
   <item component="ComponentInfo{in.mohalla.video/in.mohalla.sharechat.splash.SplashActivity}" drawable="moj" name="Moj" />
+  <item component="ComponentInfo{pl.orange.mojeorange/crc646bf5eb75cfbff4ee.SplashScreen}" drawable="moj_orange" name="Moj Orange" />
   <item component="ComponentInfo{im.molly.app/org.thoughtcrime.securesms.RoutingActivity}" drawable="molly" name="Molly" />
   <item component="ComponentInfo{com.mservice.momotransfer/vn.momo.platform.MainActivity}" drawable="momo" name="MoMo" />
   <item component="ComponentInfo{io.github.vvb2060.mahoshojo/io.github.vvb2060.mahoshojo.home.HomeActivity}" drawable="momo_test" name="momo_test" />
@@ -6357,4 +6359,5 @@
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" name="Zoom" />
   <item component="ComponentInfo{com.zulipmobile/com.zulipmobile.MainActivity}" drawable="zulip" name="Zulip" />
   <item component="ComponentInfo{org.daimhim.zzzfun/org.daimhim.zzzfun.ui.SplashActivity}" drawable="zzzfun" name="zzzfun" />
-</resources>
+<item component="ComponentInfo{com.mi.health/com.xiaomi.fitness.main.MainActivity}" drawable="mi_fitness" name="小米运动健康" />
+  </resources>
