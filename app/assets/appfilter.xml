@@ -6359,5 +6359,5 @@
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" name="Zoom" />
   <item component="ComponentInfo{com.zulipmobile/com.zulipmobile.MainActivity}" drawable="zulip" name="Zulip" />
   <item component="ComponentInfo{org.daimhim.zzzfun/org.daimhim.zzzfun.ui.SplashActivity}" drawable="zzzfun" name="zzzfun" />
-<item component="ComponentInfo{com.mi.health/com.xiaomi.fitness.main.MainActivity}" drawable="mi_fitness" name="小米运动健康" />
+<item component="ComponentInfo{com.mi.health/com.xiaomi.fitness.main.MainActivity}" drawable="mi_fitness" name="Mi Heath" />
   </resources>
